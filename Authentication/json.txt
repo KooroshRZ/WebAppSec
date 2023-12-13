@@ -1,0 +1,98 @@
+{"login": "admin","password": "admin"}
+{"login": "","password": ""}
+{"login": null,"password": null}
+{"login": 123,"password": 456}
+{"login": true,"password": false}
+{"login": ["admin"],"password": ["password"]}
+{"login": {"username": "admin","password": {"password": "password"}}}
+{"login": "@dm!n","password": "p@ssw0rd#"}
+{"login": "admin' --","password": "password"}
+{"login": "<h1>admin</h1>","password": "ololo-HTML-XSS"}
+{"login": "\u0061\u0064\u006D\u0069\u006E","password":"\u0070\u0061\u0073\u0073\u0077\u006F\u0072\u0064"}
+{"login": "ad\\nmin","password": "pa\\ssword"}
+{"login": " ","password": " "}
+{"login": "a"*10000,"password": "b"*10000}
+{"login": "admin","password": "admin"}
+{"login": "admin","password": "admin",}
+{"password": "admin"}
+{"login": "admin"}
+{"admin": "login","password": "password"}
+{"login": "admin","password": "admin","extra": "extra"}
+{"login" "admin","password": "password"}
+{"login": yes,"password": no}
+{"": "","": ""}
+{"login": {"innerLogin": "admin","password": {"innerPassword": "password"}}}
+{"LOGIN": "admin","PASSWORD": "password"}
+{"login": 1234,"password": "password"}
+{"login": "admin","password": 1234}
+{"login": "admin","login": "user","password": "password"}
+{'login': 'admin','password': 'password'}
+{"login": "@#$%^&*","password": "!@#$%^&*"}
+{"login": "\u0041\u0044\u004D\u0049\u004E","password":"\u0050\u0041\u0053\u0053\u0057\u004F\u0052\u0044"}
+{"login": {"$oid":"507c7f79bcf86cd7994f6c0e"},"password": "password"}}
+{"login": undefined,"password": undefined}
+{"login": "admin","password": "password","extra": {"key1": "value1","key2": "value2"}}
+{"login": "0x1234","password": "0x5678"}
+{"login": "admin","password": "password"}@@@@@@}
+{"login":,"password":}
+{"login": "ad\u0000min","password": "pass\u0000word"}
+{"login": "\u0061"*10000,"password": "\u0061"*10000}
+{"login": "ad\nmin","password": "pa\nssword"}
+{"login": "ad\tmin","password": "pa\tssword"}
+{"login": "<b>admin","password": "password"}
+{"login": "{\"injection\":\"value\"}","password": "password"}
+{"login": "admin","password": "password"}
+{"login": "ad123min!@","password": "pa55w0rd!@"}
+{"login": "123.456","password": "789.123"}
+{"login": "adminà¤μà¥à¤¯à¤μà¤¸à¥à¤¥à¤¾à¤ªà¤•","password": "passwordà¤ªà¤¾à¤¸à¤μà¤°à¥à¤¡"}
+{"login": "âˆ†adminâˆ†","password": "âˆ†passwordâˆ†"}
+{"l": "a","p": "p"}
+{"login": "${USER}","password": "${PASS}"}
+{"login": "ad\\min","password": "pa\\ssword"}
+{"login": "!@#$%^&*()"*1000,"password": "!@#$%^&*()"*1000}
+{"": "admin","password": "password"}
+{"{\"injection\":\"value\"}": "admin","password": "password"}
+{"login": "\"admin\"","password": "\"password\""}
+{"login": [["admin"]],"password": [["password"]]}
+{"login": {"username": {"value": "admin","password": {"password": {"value":"password"}
+{123: "admin",456: "password"}
+{"login": "admin>1","password": "<password"}
+{"login": "(admin)","password": "(password)"}
+{"login": "admin/user","password": "pass/word"}
+{"login": ["admin",123,true,null,{"username": ["admin"],"password": ["password",123,false,null,{"password": "password"]}}}
+{"login": "admin\\r\\n\\t","password": "password\\r\\n\\t"}
+{"login": "{admin}","password": "{password}"}
+{"login": "[admin]","password": "[password]"}
+{"login": "!@#$$%^&*()","password": "!@#$$%^&*()"}
+{"login": "admin\b\f\n\r\t\v\0","password": "password\b\f\n\r\t\v\0"}
+{"login": "admin\0","password": "password\0"}
+{"login": "1e5","password": "1e10"}
+{"login": "0xabc","password": "0x123"}
+{"login": "000123","password": "000456"}
+{"login": "adminê´€ë¦¬ìž","password": "passwordë¹„ë°€ë²ˆí˜¸"}
+{"a"*10000: "admin","b"*10000: "password"}
+{"login": "\u0061"*10000,"password": "\u0062"*10000}
+{"login": "admin;","password": "password;"}
+{"login": "`admin`","password": "`password`"}
+{"login": "admin+","password": "password+"}
+{"login": "admin=","password": "password="}
+{"login": "admin*","password": "password*"}
+{"login": "admin<script>alert('hi')</script>","password": "password"}
+{"login": "-123","password": "-456"}
+{"login": "https://admin.com","password": "https://password.com"}
+{"login": "admin@admin.com","password": "password@password.com"}
+{"login": "192.0.2.0","password": "203.0.113.0"}
+{"login": "2023-08-03","password": "2023-08-04"}
+{"login": 1e+30,"password": 1e+30}
+{"login": -1e+30,"password": -1e+30}
+{"login": "adminâ€‹","password": "passwordâ€‹"}
+{"login": "adminâ€","password": "passwordâ€"}
+{"login": 12345678901234567890,"password": 12345678901234567890}
+{"login": "admin\b","password": "password\b"}
+{"login": "adminðŸ˜€","password": "passwordðŸ˜€"}
+{/*"login": "admin","password": "password"*/}
+{"login": "YWRtaW4=","password": "cGFzc3dvcmQ="}
+{"login": "admin\0","password": "password\0"}
+{"login": 1e100,"password": 1e100}
+{"login": "\141\144\155\151\156","password":"\160\141\163\163\167\157\162\144"}
+
